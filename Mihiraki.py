@@ -1,4 +1,4 @@
-# app.py (Mihiraki 1.0.8)
+# app.py (Mihiraki 1.0.9)
 # Features added:
 # 1) Open PDFs passed via command line (Open with / default app)
 # 2) Drag & drop PDFs onto the window to open
@@ -41,7 +41,7 @@ from PySide6.QtWidgets import (
 # App Identity
 # =============================
 APP_NAME = "Mihiraki"
-APP_VERSION = "1.0.8"
+APP_VERSION = "1.0.9"
 
 WINDOWS_APP_ID = "jp.it-libero.mihiraki"
 APP_ICON_REL = "assets/mihiraki.ico"
